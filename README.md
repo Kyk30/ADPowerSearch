@@ -54,7 +54,7 @@ Results are clearly labelled `Utilisateur` or `Ordinateur` in the subtitle.
 
 1. **Clone the repository**
    ```powershell
-   git clone https://github.com/kylianvillard/ADPowerSearch.git
+   git clone https://github.com/Kyk30/ADPowerSearch.git
    cd ADPowerSearch
    ```
 
