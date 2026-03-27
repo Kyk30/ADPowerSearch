@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "rechercheAD (Package)": {
+      "commandName": "MsixPackage",
+      "doNotLaunchApp": true
+    },
+    "rechercheAD (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
